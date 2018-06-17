@@ -7,7 +7,7 @@ import org.apache.flink.streaming.api.scala.StreamExecutionEnvironment
 import org.apache.flink.streaming.util.serialization.SimpleStringSchema
 import org.slf4j.LoggerFactory
 
-object ReadkafkaExample {
+object ReadKafkaExample {
 
   def main(args: Array[String]): Unit = {
 
