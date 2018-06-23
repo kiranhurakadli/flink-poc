@@ -1,6 +1,4 @@
-package com.poc
-
-
+package com.poc.flink
 
 import java.util.Properties
 
